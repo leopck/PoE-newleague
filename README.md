@@ -276,7 +276,7 @@ The idea is to keep the text as short as possible, for easier reading and a bett
 
 1. To up to *The Descent* -> *Supply Hoist* -> keep going down -> *The Vastiri Desert*
 2. *The Vastiri Desert* get [Waypoint] and crafting -> find [Storm Blade].quest
-3. [Town Portal] to town turn in quests -> [Waypoint] back *The Vastiri Desert* -> *The Oasis*, kill [Shakari].boss [Town Portal] town
+3. [Town Portal] to town turn in quests -> [Waypoint] back *The Vastiri Desert* -> Find the bridge with a sandstorm and walk towards it to unlock *The Oasis*, kill [Shakari].boss [Town Portal] town
 4. [Waypoint] back to the vastiri desert -> The foothills (normally north)
 5. *The Vastiri Desert*  -> *The Foothills* get [Waypoint], -> *The Boiling Lake* -> kill [The Basilisk].boss get Crafting
 6. [Town Portal] to town, [Waypoint] to *The Foothills* -> find [Calendar of Fortune].quest -> *The Tunnel*

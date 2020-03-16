@@ -274,7 +274,7 @@ The idea is to keep the text as short as possible, for easier reading and a bett
 
 ### Quests
 
-1. To up to *The Descent* -> keep going down -> *The Vastiri Desert*
+1. To up to *The Descent* -> *Supply Hoist* -> keep going down -> *The Vastiri Desert*
 2. *The Vastiri Desert* get [Waypoint] and crafting -> find [Storm Blade].quest
 3. [Town Portal] to town turn in quests -> [Waypoint] back *The Vastiri Desert* -> *The Oasis*, kill [Shakari].boss [Town Portal] town
 4. [Waypoint] back to the vastiri desert -> The foothills (normally north)
